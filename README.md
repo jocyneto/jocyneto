@@ -1,8 +1,6 @@
-## Hellooo, eu sou Jocy Neto, aprendendo a ser um Engenheiro de dados!
+## Hellooo, eu sou Jocy Neto!
 
-
-- 👀 I’m interested in Data Engineer and Artificial Intelligence
-- 💞️ I’m looking to collaborate on change world with data
+- 💞️ I’m looking to collaborate on change world with code
 - 📫 How to reach me jocygneto@gmail.com
 
 
